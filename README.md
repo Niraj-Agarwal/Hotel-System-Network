@@ -29,8 +29,6 @@ The Vic Modern Hotel has three floors, each hosting different departments:
 - **Wireless Network Setup**: Configured WLAN using Cisco Access Points for wireless devices.
 - **Device Configuration:** Configured all host devices to ensure seamless communication.
 - **Testing & Verification**: Thoroughly tested the network to verify communication across all devices.
-### Special Feature
-In the IT department, a special port security configuration is implemented on port fa0/1 of the switch. Only a specific PC (Test-PC) is allowed access, using the sticky method to learn the MAC address, with a violation mode set to shutdown.
 
 ## How to Use
 - Download the project files and open them in Cisco Packet Tracer.
